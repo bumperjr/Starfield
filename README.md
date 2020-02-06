@@ -1,2 +1,2 @@
 # Starfield
-A simple example of creating a starfield effect
+A starfield effect i made using C++ and OpenGL
